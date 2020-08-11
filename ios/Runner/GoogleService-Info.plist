@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258838862792-tub2binrgmu4enc097no5s7eplcdf9du.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258838862792-tub2binrgmu4enc097no5s7eplcdf9du</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>258838862792-qpnmjs1k73ilhdlqkhp1repluvj8s6hi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAgU5t4F85GzH8G_N-TAKLBTBAT3ze4-8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258838862792</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cray.ftfcbklogin</string>
+	<key>PROJECT_ID</key>
+	<string>my-gunpla</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-gunpla.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258838862792:ios:8d275f3b085f5ce8983efd</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-gunpla.firebaseio.com</string>
+</dict>
+</plist>

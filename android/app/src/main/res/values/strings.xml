@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    com.cray.ft_login_facebook-->
+<!--    <string name="facebook_app_id">1448372825357392</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb1448372825357392</string>-->
+
+<!--    com.cray.ftfcbklogin-->
+    <string name="app_name">ftfcbklogin</string>
+    <string name="facebook_app_id">3194153407365942</string>
+    <string name="fb_login_protocol_scheme">fb3194153407365942</string>
+
+</resources>
